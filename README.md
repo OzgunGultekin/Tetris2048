@@ -23,8 +23,34 @@ Player can earn points from clearing rows and merging tiles that have same value
 ![Ekran görüntüsü 2024-03-16 184656](https://github.com/OzgunGultekin/Tetris2048/assets/153070257/f3a9f850-6dec-4e16-af1d-7c765759d18a)
 
 ***Direction Key Down:***  Tetromino moves down one block when the key is pressed.
+
 ***Direction Key Left:*** Tetromino moves left one block when the key is pressed.
+
 ***Direction Key Right:*** Tetromino moves right one block when the key is pressed.
+
 ***Direction Key Up:***  When the key is pressed, the Tetromino rotates 90 degrees.
+
 ***Spacebar:*** Press the spacebar and the tetromino will  instanted-drop.
+
 ***M:*** When you press this key, the menu screen appears and the game is paused.
+
+## Menu Guide
+
+![Ekran görüntüsü 2024-03-16 184855](https://github.com/OzgunGultekin/Tetris2048/assets/153070257/9d8af72c-9884-410c-923d-2699514f3b4d)
+
+***Pause Menu:*** This menu is opened by pressing the 'M' key while the game is running.
+
+***Score:*** In this section, the total score obtained at the moment in the game is shown.
+
+***First Button:*** This button allows us to start the game.
+
+***Second Button:*** This button allows us to exit the game.
+
+
+
+
+
+
+
+
+
